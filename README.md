@@ -7,7 +7,8 @@
 
 ---
 
-## GitHub Analytics
+### GitHub Analytics
+---
 
 ### Contribution Streak
 <p align="center">
@@ -26,15 +27,15 @@
 
 ---
 
-## Technical Proficiencies
-
+### Technical Proficiencies
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=F7B93E&center=true&vCenter=true&width=500&lines=Crafting+code+across+multiple+stacks;Always+exploring+new+technologies" />
 </p>
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 <p align="center">
   I work fluently with <b>Python</b>, <b>Java</b>, and <b>C++</b>, applying them for algorithms, problem-solving, and building scalable applications.
@@ -44,7 +45,7 @@
 
 ### ⚡ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express" />
 </p>
 <p align="center">
   From dynamic UIs in <b>React</b> to backend services in <b>Node.js & Express</b>,  
@@ -74,17 +75,26 @@
 </p>
 
 
-## Professional Profiles
+### Professional Profiles
+---
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-nambi-02a089321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sandeep.nambi08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/Sandeep_nambi"><img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sandeepnambi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sandeep-nambi-02a089321/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sandeep.nambi08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/Sandeep_nambi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sandeepnambi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## LeetCode Performance
+### LeetCode Performance
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sandeepnambi?theme=dark&font=Karma&ext=heatmap" />
 </p>
@@ -92,12 +102,14 @@
 ---
 
 
-## Profile Engagement
+### Profile Engagement
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandeepnambi&color=blue&style=for-the-badge" />
 </p>
 
-## 📈 My GitHub Activity Graph
+---
+
+### 📈 My GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepnambi&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
