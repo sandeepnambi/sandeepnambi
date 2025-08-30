@@ -96,3 +96,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandeepnambi&color=blue&style=for-the-badge" />
 </p>
+
+## 📈 My GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepnambi&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
